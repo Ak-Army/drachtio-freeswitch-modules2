@@ -13,6 +13,6 @@
     "drachtio-fsmrf": "^3.0.27",
     "drachtio-srf": "^4.5.28",
     "minimist": "^1.2.5",
-    "ws": "^7.3.1"
+    "ws": "^7.5.10"
   }
 }
